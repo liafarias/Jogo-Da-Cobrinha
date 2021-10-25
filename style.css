@@ -1,0 +1,19 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(132, 204, 132);
+}
+
+.titulo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.descricao{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #aaa;
+}
